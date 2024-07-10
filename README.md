@@ -1,3 +1,5 @@
 # Pull_shark
 
-I want to get pull shark 뱃지
+Pull shark 
+YOLO
+Galaxy Brain
