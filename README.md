@@ -1,3 +1,3 @@
 # Pull_shark
 
-shark example 
+I want to get pull shark 뱃지
