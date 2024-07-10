@@ -1,3 +1,3 @@
 # Pull_shark
 
-I want to get pull shark 뱃지
+Pull shark 뱃지를 얻는 방법은 PR을 많이 하면 된다
