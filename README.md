@@ -1,5 +1,3 @@
 # Pull_shark
-
-Pull shark 
-YOLO
-Galaxy Brain
+1. YOLO
+2. Galaxy Brain
